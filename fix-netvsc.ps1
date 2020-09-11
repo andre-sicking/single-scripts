@@ -11,7 +11,7 @@
         Script generates a log file when called and exits always with 0.
         Can be perfectly used in MDT/SCCM task sequence.
         Script was made for german OS versions. Users and Groups may need to be renamed accordingly (i.e. Administratoren = Administrators, Benutzer = Users)
-	.LINK
+    .LINK
 #>
 
 Write-Verbose "Setting Arguments" -Verbose
